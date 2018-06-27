@@ -1,0 +1,24 @@
+	GITHUB 
+CREAR UN BRANCH 
+BRANCH:master
+create branch
+
+commit registra la historia del fichero
+
+
+
+CREAR PROYECTO
+git unit 
+git add README.md
+git remote add orgin 
+git push -u origin master --- sincroniza con servdor remoto   solo con https
+
+Comanda line para hacer push de un proyecto existente en copa local 
+
+git remote add orgin https ---: 
+git push -u origin master
+
+
+--------------------------------
+PUSH a lo local
+PULL nivel global
